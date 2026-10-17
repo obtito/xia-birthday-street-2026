@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">花朵与樱桃生日蛋糕</title>
+  <desc id="desc">白瓷盘上的单层奶油蛋糕，装饰着小花和樱桃，一根金色细蜡烛立在正中，等待生日愿望。</desc>
+  <defs>
+    <linearGradient id="cream" x1="300" y1="211" x2="300" y2="369" gradientUnits="userSpaceOnUse"><stop stop-color="#fffcf0"/><stop offset=".55" stop-color="#f6edda"/><stop offset="1" stop-color="#e4d7bc"/></linearGradient>
+    <linearGradient id="plate" x1="300" y1="363" x2="300" y2="421" gradientUnits="userSpaceOnUse"><stop stop-color="#fffdf4"/><stop offset="1" stop-color="#dcdfd1"/></linearGradient>
+    <linearGradient id="candle" x1="294" y1="160" x2="306" y2="160" gradientUnits="userSpaceOnUse"><stop stop-color="#ae8846"/><stop offset=".35" stop-color="#ead295"/><stop offset=".6" stop-color="#f9e8b2"/><stop offset="1" stop-color="#b7914e"/></linearGradient>
+    <linearGradient id="cherry" x1="0" y1="-8" x2="4" y2="13" gradientUnits="userSpaceOnUse"><stop stop-color="#b75e67"/><stop offset="1" stop-color="#8f434e"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#efe6cf" stop-opacity=".6"/><stop offset="1" stop-color="#efe6cf" stop-opacity="0"/></radialGradient>
+    <g id="flower"><path d="M0-3C-16-18-3-29 4-15C11-31 25-20 15-8C33-9 32 9 15 8C26 22 10 30 4 16C-1 32-17 23-8 10C-27 14-29-4-12-6C-25-18-10-29 0-13" fill="#f6e0d9" stroke="#c9aaa0" stroke-width="1"/><circle cx="3" cy="2" r="7" fill="#c9a658"/><circle cx="1" cy="0" r="1" fill="#f6e5ad"/><circle cx="6" cy="3" r="1.2" fill="#9d803f"/><circle cx="1" cy="5" r="1.1" fill="#9d803f"/></g>
+    <g id="creamdrop"><path d="M0 0C-15 1-16-12-8-17C-2-21-3-24-1-27C3-21 7-21 11-15C17-7 13 1 0 0Z" fill="#fff9e9" stroke="#d4c8aa" stroke-width="1"/><path d="M-1-23C-7-16 5-11 1-3" stroke="#e9dbc0" stroke-width="1.1" stroke-linecap="round"/></g>
+    <g id="fruit"><path d="M0-7C-10-12-17-5-15 4C-12 17 8 20 14 7C19-4 10-12 2-7Z" fill="url(#cherry)" stroke="#8d4e54" stroke-width="1.2"/><path d="M-8-2C-10 0-10 4-8 7" stroke="#e2a3a3" stroke-width="2.2" stroke-linecap="round"/><path d="M1-7C2-20 5-30 12-36" stroke="#6c7e58" stroke-width="1.8" stroke-linecap="round"/></g>
+  </defs>
+  <ellipse cx="299" cy="279" rx="225" ry="163" fill="url(#halo)"/>
+  <ellipse cx="301" cy="411" rx="171" ry="19" fill="#817c60" opacity=".1"/>
+  <path d="M100 374C101 404 188 428 300 428C412 428 498 404 500 374" fill="#d9decf" stroke="#9da991" stroke-width="1.4"/>
+  <ellipse cx="300" cy="373" rx="200" ry="48" fill="url(#plate)" stroke="#9da991" stroke-width="1.4"/>
+  <ellipse cx="300" cy="373" rx="181" ry="36" stroke="#c3cbb8" stroke-width="1.2"/>
+  <path d="M139 381C173 400 235 411 300 411C365 411 429 399 460 380" stroke="#fffdf4" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="300" cy="370" rx="149" ry="29" fill="#b5aa8c" opacity=".2"/>
+  <path d="M156 245V346C156 373 220 394 300 394C380 394 444 373 444 346V245Z" fill="url(#cream)" stroke="#baa98a" stroke-width="1.8"/>
+  <ellipse cx="300" cy="245" rx="144" ry="43" fill="#fffaf0" stroke="#baa98a" stroke-width="1.6"/>
+  <path d="M160 250C169 256 175 252 179 260C184 271 179 286 188 288C197 290 192 268 200 267C208 266 219 278 228 275C239 271 245 275 247 286C249 296 255 301 261 296C267 291 262 279 271 280C284 282 292 287 304 285C316 284 322 281 326 290C332 301 340 299 342 289C344 278 347 277 355 276C369 275 376 269 382 273C389 278 383 289 391 290C399 291 397 275 401 270C410 264 426 264 437 251" fill="#fffaf0"/>
+  <path d="M170 300V337M176 315V348M425 294V338M431 304V344" stroke="#d3c4a6" stroke-width="1.2" stroke-linecap="round" opacity=".6"/>
+  <path d="M183 359C210 373 252 380 300 380C350 380 391 373 417 359" stroke="#d6c7ac" stroke-width="1.2"/>
+  <path d="M186 318C192 312 198 312 205 318C213 325 218 324 225 317C231 311 237 312 244 319C251 326 257 325 263 319C270 313 276 314 283 321C291 328 298 327 305 321C313 314 319 314 326 320C334 327 341 326 347 318C353 311 359 311 367 317C374 323 380 323 387 315C393 308 401 309 407 315" stroke="#c3cba9" stroke-width="1.7" stroke-linecap="round"/>
+  <g fill="#c4a265"><circle cx="196" cy="338" r="2"/><circle cx="240" cy="345" r="2"/><circle cx="286" cy="349" r="2"/><circle cx="333" cy="347" r="2"/><circle cx="379" cy="338" r="2"/></g>
+  <g transform="translate(300 0)"><path d="M-5 103C-5 100 5 100 5 103V239C5 242-5 242-5 239Z" fill="url(#candle)" stroke="#b08d4b" stroke-width="1.1"/><ellipse cy="103" rx="5" ry="2" fill="#f7e8b5" stroke="#b08d4b" stroke-width=".8"/><path d="M0 103V100" stroke="#695d44" stroke-width="1.5" stroke-linecap="round"/><path d="M-4 124L4 116M-4 145L4 137M-4 166L4 158M-4 187L4 179M-4 208L4 200M-4 229L4 221" stroke="#fdf0c3" stroke-width="1.5" opacity=".8"/></g>
+  <g opacity=".95"><use href="#creamdrop" transform="translate(174 248) scale(.8)"/><use href="#creamdrop" transform="translate(199 266) scale(.8)"/><use href="#creamdrop" transform="translate(229 278) scale(.8)"/><use href="#creamdrop" transform="translate(264 285) scale(.8)"/><use href="#creamdrop" transform="translate(300 289) scale(.8)"/><use href="#creamdrop" transform="translate(336 285) scale(.8)"/><use href="#creamdrop" transform="translate(371 278) scale(.8)"/><use href="#creamdrop" transform="translate(401 266) scale(.8)"/><use href="#creamdrop" transform="translate(426 248) scale(.8)"/></g>
+  <g><use href="#creamdrop" transform="translate(174 350) scale(.75 .65)"/><use href="#creamdrop" transform="translate(195 365) scale(.75 .65)"/><use href="#creamdrop" transform="translate(220 377) scale(.75 .65)"/><use href="#creamdrop" transform="translate(250 385) scale(.75 .65)"/><use href="#creamdrop" transform="translate(283 389) scale(.75 .65)"/><use href="#creamdrop" transform="translate(317 389) scale(.75 .65)"/><use href="#creamdrop" transform="translate(350 385) scale(.75 .65)"/><use href="#creamdrop" transform="translate(380 377) scale(.75 .65)"/><use href="#creamdrop" transform="translate(405 365) scale(.75 .65)"/><use href="#creamdrop" transform="translate(426 350) scale(.75 .65)"/></g>
+  <path d="M217 233C212 216 203 204 190 200C187 216 198 229 217 233ZM227 221C229 207 238 199 250 197C249 212 241 220 227 221ZM371 235C382 220 394 217 407 223C398 237 385 240 371 235Z" fill="#99ac88" stroke="#7d926f" stroke-width="1.2"/>
+  <use href="#flower" transform="translate(215 235) scale(.9) rotate(-20)"/><use href="#flower" transform="translate(239 217) scale(.61) rotate(20)"/>
+  <use href="#fruit" transform="translate(366 239) rotate(8)"/><use href="#fruit" transform="translate(392 248) scale(.87) rotate(-10)"/>
+  <use href="#flower" transform="translate(348 252) scale(.53) rotate(20)"/>
+  <path d="M365 203C368 192 374 185 384 183C384 193 378 201 365 203Z" fill="#9bad86" stroke="#7d926f" stroke-width="1.1"/>
+  <g fill="#c6a465"><ellipse cx="271" cy="245" rx="2.8" ry="1.2" transform="rotate(-20 271 245)"/><ellipse cx="327" cy="224" rx="2.3" ry="1.3" transform="rotate(30 327 224)"/><ellipse cx="254" cy="234" rx="1.7" ry="1.2"/><ellipse cx="316" cy="258" rx="2.1" ry="1.2"/><ellipse cx="347" cy="231" rx="1.8" ry="1.2"/></g>
+  <path d="M106 217L109 224L117 227L110 231L108 239L105 231L98 228L105 224Z" fill="#cdb273"/><path d="M478 287L481 293L488 295L482 298L480 305L477 299L470 296L477 293Z" fill="#bdc7aa"/><circle cx="459" cy="167" r="2.5" fill="#cdb273"/>
+</svg>

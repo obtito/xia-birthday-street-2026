@@ -1,0 +1,10 @@
+work/
+.openai/
+.DS_Store
+node_modules/
+*.log
+.env*
+!.env.example
+/夏夏的生日小街.html
+*.zip
+/给夏夏的生日信.txt

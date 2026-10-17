@@ -1,0 +1,1 @@
+{"name":"xia-birthday-street","private":true,"version":"1.0.0","description":"夏夏的生日小街","scripts":{"dev":"python3 -m http.server 4173 --bind 127.0.0.1 --directory dist","check":"node scripts/check.mjs"}}

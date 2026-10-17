@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">桂花米糕与鲜花饼</title>
+  <desc id="desc">白瓷盘盛着淋有桂花糖的软糯米糕和两枚鲜花饼，细细的花枝伸向盘沿。</desc>
+  <defs>
+    <linearGradient id="plate" x1="300" y1="199" x2="300" y2="400" gradientUnits="userSpaceOnUse"><stop stop-color="#fffdf6"/><stop offset="1" stop-color="#e8e6d8"/></linearGradient>
+    <linearGradient id="rice" x1="187" y1="168" x2="266" y2="331" gradientUnits="userSpaceOnUse"><stop stop-color="#fffff7"/><stop offset=".58" stop-color="#f6efd8"/><stop offset="1" stop-color="#d7c9a8"/></linearGradient>
+    <linearGradient id="pastry" x1="331" y1="230" x2="359" y2="346" gradientUnits="userSpaceOnUse"><stop stop-color="#efd19a"/><stop offset=".5" stop-color="#cf9b58"/><stop offset="1" stop-color="#af7545"/></linearGradient>
+    <linearGradient id="syrup" x1="198" y1="194" x2="260" y2="285" gradientUnits="userSpaceOnUse"><stop stop-color="#e5bb62" stop-opacity=".7"/><stop offset="1" stop-color="#b48136" stop-opacity=".48"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#f1e7d3" stop-opacity=".65"/><stop offset="1" stop-color="#f1e7d3" stop-opacity="0"/></radialGradient>
+    <g id="osmanthus"><path d="M0 0C-12-9-8-17-1-11C5-24 14-17 8-8C23-10 20 1 9 0C15 12 4 16 1 6C-6 17-15 10-7 2Z" fill="#d2a04c"/><circle cx="2" cy="-2" r="2.3" fill="#a87935"/></g>
+  </defs>
+  <ellipse cx="298" cy="275" rx="232" ry="165" fill="url(#halo)"/>
+  <ellipse cx="301" cy="370" rx="198" ry="23" fill="#80704c" opacity=".10"/>
+  <path d="M91 299C93 348 180 390 298 390C418 390 507 348 509 299" fill="#e5e2d4" stroke="#aeb5a4" stroke-width="1.5"/>
+  <ellipse cx="300" cy="291" rx="210" ry="91" fill="url(#plate)" stroke="#aeb5a4" stroke-width="1.5"/>
+  <ellipse cx="300" cy="291" rx="188" ry="73" stroke="#c8ccbb" stroke-width="1.4"/>
+  <ellipse cx="300" cy="294" rx="162" ry="57" stroke="#dddccc" stroke-width="1"/>
+  <path d="M127 289C145 256 199 237 254 233M349 348C394 341 433 325 451 306" stroke="#fffef8" stroke-width="4" stroke-linecap="round" opacity=".85"/>
+  <ellipse cx="230" cy="306" rx="91" ry="25" fill="#8c7954" opacity=".12"/>
+  <path d="M170 210L251 178L301 218L296 293Q296 304 286 308L212 338Q201 342 192 335L163 310Z" fill="url(#rice)" stroke="#b5aa8e" stroke-width="1.7" stroke-linejoin="round"/>
+  <path d="M170 210L218 250L301 218L251 178Z" fill="#fffcf0" stroke="#c4b99a" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M218 250L212 338M166 221L209 256M229 254L291 230" stroke="#d7c9aa" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M179 207L251 182L289 215L219 242Z" fill="url(#syrup)"/>
+  <path d="M219 242C227 256 221 273 227 276C233 280 235 263 240 263C245 263 241 284 248 285C255 286 256 262 261 260C267 258 265 274 270 275C277 275 278 250 285 235L289 215Z" fill="url(#syrup)"/>
+  <path d="M183 206L220 234L278 214" stroke="#fff7d1" stroke-width="2" stroke-linecap="round" opacity=".85"/>
+  <g fill="#ae8f50" opacity=".38"><circle cx="183" cy="250" r="1.2"/><circle cx="195" cy="283" r="1.6"/><circle cx="179" cy="291" r="1.1"/><circle cx="206" cy="315" r="1.3"/><circle cx="236" cy="301" r="1.1"/><circle cx="283" cy="268" r="1.2"/><circle cx="270" cy="291" r="1.5"/><circle cx="250" cy="310" r="1.1"/></g>
+  <path d="M314 279C312 258 333 244 361 246C389 248 411 264 411 284L406 309C399 328 321 330 314 306Z" fill="#b67d46" stroke="#a87748" stroke-width="1.6"/>
+  <ellipse cx="361" cy="280" rx="50" ry="35" fill="url(#pastry)" stroke="#a87748" stroke-width="1.5"/>
+  <ellipse cx="361" cy="278" rx="41" ry="27" stroke="#f4d59a" stroke-width="1.5"/>
+  <path d="M361 255C345 254 343 265 349 271C336 272 336 286 350 287C344 299 359 306 365 293C374 303 387 291 376 284C390 280 384 265 371 271C374 257 366 252 361 255Z" stroke="#aa7542" stroke-width="1.5"/>
+  <circle cx="361" cy="279" r="7" fill="#d2a25e" stroke="#b17c42" stroke-width="1.2"/>
+  <path d="M382 306L382 313M396 299L394 308M324 299L325 308M338 312L339 318" stroke="#925e35" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M365 303C366 285 389 272 415 278C438 283 452 299 449 315L443 334C433 351 371 345 364 327Z" fill="#ad7345" stroke="#a87748" stroke-width="1.5"/>
+  <ellipse cx="406" cy="305" rx="44" ry="31" transform="rotate(10 406 305)" fill="url(#pastry)" stroke="#a87748" stroke-width="1.5"/>
+  <ellipse cx="406" cy="304" rx="36" ry="24" transform="rotate(10 406 304)" stroke="#f5d59b" stroke-width="1.4"/>
+  <path d="M410 283C397 280 393 290 397 295C386 294 380 306 393 311C383 321 396 332 404 320C410 332 423 324 419 314C432 318 436 304 424 300C432 290 420 279 414 291" stroke="#ae7943" stroke-width="1.5"/>
+  <circle cx="406" cy="304" r="6" fill="#d2a25e" stroke="#b17c42" stroke-width="1.2"/>
+  <path d="M119 222C145 213 151 191 148 159C148 137 155 120 176 103M146 178C131 162 119 153 101 153M151 145C171 143 183 130 190 117" stroke="#6e8064" stroke-width="2.1" stroke-linecap="round"/>
+  <path d="M148 175C128 176 120 168 115 157C130 155 143 160 148 175ZM154 146C162 130 173 124 188 123C183 138 171 147 154 146ZM152 134C143 120 144 109 152 100C163 113 162 122 152 134Z" fill="#a8b192" stroke="#768468" stroke-width="1.2"/>
+  <use href="#osmanthus" transform="translate(104 153) scale(.69) rotate(-25)"/><use href="#osmanthus" transform="translate(176 102) scale(.8)"/><use href="#osmanthus" transform="translate(192 117) scale(.65) rotate(35)"/>
+  <g fill="#d2a04c"><ellipse cx="209" cy="210" rx="4" ry="2" transform="rotate(-25 209 210)"/><ellipse cx="239" cy="198" rx="3" ry="2"/><ellipse cx="250" cy="218" rx="4" ry="2" transform="rotate(30 250 218)"/><ellipse cx="229" cy="222" rx="2" ry="3" transform="rotate(20 229 222)"/><ellipse cx="190" cy="204" rx="3" ry="1.6"/><ellipse cx="289" cy="326" rx="3.5" ry="2" transform="rotate(30 289 326)"/><ellipse cx="306" cy="335" rx="3" ry="1.7"/><ellipse cx="284" cy="341" rx="2" ry="3"/></g>
+  <path d="M110 340C126 349 140 354 153 355M442 238L451 234" stroke="#adb49e" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
